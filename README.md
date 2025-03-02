@@ -1,4 +1,4 @@
-🎓 Student Performance Analysis (EDA)
+ Student Performance Examination ( 
 📊 Understanding the impact of demographics on students' test scores
 
 📌 Project Overview
@@ -35,12 +35,12 @@ Copy
 Edit
 git clone https://github.com/your-repo/student-performance-eda.git
 cd student-performance-eda
-2️⃣ Launch Jupyter Notebook
+2️⃣ Launch Jupyter Notebook 
 
-bash
 Copy
 Edit
 jupyter notebook "1. EDA STUDENT PERFORMANCE .ipynb"
+
 3️⃣ Explore the Visualizations and derive insights! 📊
 
 📸 Sample Visualizations
