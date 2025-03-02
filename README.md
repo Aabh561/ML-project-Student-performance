@@ -61,13 +61,6 @@ jupyter notebook "1. EDA STUDENT PERFORMANCE .ipynb"
 
 
 
-## 🤝 Contributing  
-Have ideas for improvement? Feel free to **fork this repository** and submit a **pull request**! 🚀  
-
-📬 For suggestions or discussions, reach out!  
-
-📢 If you found this useful, consider giving it a ⭐ on GitHub!  
-
 
 
 
